@@ -1,0 +1,24 @@
+/* style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+header .profile-pic {
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 10px;
+    border: 4px solid #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
